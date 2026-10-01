@@ -16,3 +16,5 @@ def main():
     file_name = 'data2.txt'
     read_file_lineByLine(file_name)
     print(read_file_list(file_name))
+
+ 
