@@ -5,7 +5,10 @@
 # Purpose: Write data to a file.
 # Usage: ./lab5b.py
 
-# TO DO 1: Paste the code provided in readme.md file.
-# TO DO 2: Run the script.
-# TO DO 3: Run the 'ls' command.
-# TO DO 4: Print the contents of fruits.txt in a loop.
+# TODO 1: Paste the code provided in readme.md file.
+
+# TODO 3: Validate that the new file was created.
+
+# TODO 4: Using a while loop and the readline() function, 
+        # print each line of fruits.txt
+

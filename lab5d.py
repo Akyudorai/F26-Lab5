@@ -5,5 +5,10 @@
 # Purpose: Process File data.
 # Usage: ./lab5d.py
 
-# TO DO 1: Copy the files pythonStatements.txt and machineCode.txt in folder.
-# TO DO 2: Follow the instructions from the readme.me file to create the exact output.
+# TODO 1: Create pathing variables for your pythonStatements.txt and machineCode.txt files
+
+# TODO 2: Strip all leading and trailing spaces, as well as comments from pythonStatements.txt
+
+# TODO 3: Write the pure python statement with its corresponding machine code statement in a new file called "output.txt"
+
+# TODO 4: Make sure you add a tab between the python statement and its corresponding machine code when writing in output.txt

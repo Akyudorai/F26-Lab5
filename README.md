@@ -82,14 +82,14 @@ When opening a file for writing, the 'w' option is specified as an argument to t
 
 - Add the following lines in your lab5b.py to create and open a file for writing.
 ```Python
-f = open(fruits.txt', 'w')
+f = open('fruits.txt', 'w')
 f.write('1. Apples are crunchy.\n2. Oranges are sweet, sour and juicy.\n3. Strawberries are sweet.\n4. Which fruit do you like?')
 f.close()
 print("file fruits.txt has been created")
 ```
 - Note that the \n is the part of the string to add the new line character in the file. The `write()` method will write the contents you provide it, if you do not add \n, everything will be written as a single line.
-- Run the script from terminal using the command python ./lab5b.py
-- Run the `ls` command to confirm that the new file is created.
+- Run the script from VS or from terminal using the command python ./lab5b.py
+- Validate the file was created when you run the project
 - Next add a `print` statement which prints: "Reading the file fruits.txt ...
 - Next write a while loop to read the contents of the file 'fruits.txt' using the `readline()` and print each line.
 - Run the script again.
